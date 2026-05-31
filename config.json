@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrncrypt",
+        "uuid": 14832272,
+        "checksum": "rd3xrx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
